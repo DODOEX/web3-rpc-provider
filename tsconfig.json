@@ -1,0 +1,35 @@
+{
+  "compilerOptions": {
+    "target": "es2016",
+
+    "module": "commonjs",
+    "rootDir": "./src",
+    "typeRoots": [
+      "./typings",
+      "./node_modules/@types",
+      "./node_modules/jest-puppeteer/dist/*.d.ts"
+    ],
+    "paths": {
+      "@/*": ["./src/*"]
+    },
+    "outDir": "./dist",
+    "removeComments": true,
+
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+
+    "strict": true,
+
+    "skipLibCheck": true,
+
+    "resolveJsonModule": true
+  },
+  "compileOnSave": true,
+  "ts-node": {
+      "swc": true
+  },
+  "include": [
+      "src",
+      "typings"
+  ]
+}

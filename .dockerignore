@@ -1,0 +1,14 @@
+**/.vscode
+**/.git
+**/.gitignore
+**/docker-compose*
+**/Dockerfile*
+**/.env
+**/.aws
+**/.editorconfig
+**/*.md
+**/LICENSE
+**/node_modules/
+**/*.log
+**/dist
+**/coverage
