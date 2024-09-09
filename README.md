@@ -15,6 +15,8 @@
 
 ## :dart: Introduction
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/77a87eb50ae94f3a9b5abde7bd46f7ec)](https://app.codacy.com/gh/DODOEX/web3-rpc-provider?utm_source=github.com&utm_medium=referral&utm_content=DODOEX/web3-rpc-provider&utm_campaign=Badge_Grade)
+
 Web3 RPC Provider offers free web3 endpoint apis, enabling clients to quickly access blockchain networks.
 
 > [!NOTE]  
