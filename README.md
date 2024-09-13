@@ -5,13 +5,13 @@
 </div>
 <h1 align="center">Web3 RPC Provider</h1>
 <div align="center">
-  <img alt="NodeJS Version" src="https://img.shields.io/badge/node.js-%3E=_21.17.0-green.svg?style=flat-square"/>
+  <a href="https://github.com/DODOEX/web3-rpc-provider/actions/workflows/node.yml"><img alt="Node.js Test" src="https://github.com/DODOEX/web3-rpc-provider/actions/workflows/node.yml/badge.svg"/></a>
   &#xa0;
   <a href="https://app.codacy.com/gh/DODOEX/web3-rpc-provider?utm_source=github.com&utm_medium=referral&utm_content=DODOEX/web3-rpc-provider&utm_campaign=Badge_Grade"><img alt="Codacy Badge" src="https://api.codacy.com/project/badge/Grade/77a87eb50ae94f3a9b5abde7bd46f7ec"/></a>
   &#xa0;
-  <img alt="License Badge" src="https://img.shields.io/github/license/DODOEX/web3-rpc-provider.svg"/>
-  &#xa0;
   <img alt="Release Badge" src="https://img.shields.io/github/release/DODOEX/web3-rpc-provider"/>
+  &#xa0;
+  <img alt="License Badge" src="https://img.shields.io/github/license/DODOEX/web3-rpc-provider.svg"/>
 </div>
 <br>
 
