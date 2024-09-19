@@ -20,7 +20,7 @@
 Web3 RPC Provider offers the apis of get the free endpoint, enabling clients to quickly access blockchain networks.
 
 > [!NOTE]
-> Works with [Web3 RPC Proxy](https://github.com/DODOEX/web3-rpc-provider) for optimal, stable, and latest block height access to blockchains.
+> Works with [Web3 RPC Proxy](https://github.com/DODOEX/web3-rpc-proxy) for optimal, stable, and latest block height access to blockchains.
 
 <br>
 
